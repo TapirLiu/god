@@ -11,7 +11,7 @@ func main () {
    os.Setenv ("GOPATH", gopath)
    cmd := exec.Command("go", os.Args [1:]...)
    cmd.Stdin = os.Stdin
-	 cmd.Stdout = os.Stdout
-	 cmd.Stderr = os.Stderr
+   cmd.Stdout = os.Stdout
+   cmd.Stderr = os.Stderr
    cmd.Run ()
 }
