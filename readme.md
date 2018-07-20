@@ -1,4 +1,4 @@
-**Since Go 1.11, the official Go tools supports putting Go code outside of GOPATH. So this project becomes obsoleted now.**
+_(**NOTICE: Since Go 1.11, the official Go tools supports putting Go code outside of GOPATH. So this project becomes obsoleted now.**)_
 
 ## install
 
