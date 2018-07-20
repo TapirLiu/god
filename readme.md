@@ -1,3 +1,5 @@
+**Since Go 1.11, the official Go tools supports putting Go code outside of GOPATH. So this project becomes obsoleted now.**
+
 ## install
 
 go get github.com/TapirLiu/god
